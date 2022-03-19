@@ -4,8 +4,18 @@ In this repository you will find the projects I have worked on.
 
 You can access them if you want to fork the repository or clone it.
 
+**SSH**
+
 ```
-git clone
+git clone git@github.com:JLCaraveo/ML-Projects.git
+cd ML-Projects
+```
+
+**HTTPS**
+
+```
+git clone https://github.com/JLCaraveo/ML-Projects.git
+cd ML-Projects
 ```
 
 The projects are organized by folders, the name of the folder corresponds to the topic related to the project. In each folder you will find the following information:
@@ -31,6 +41,6 @@ Go into the post [Should we hire new staff?](https://www.jlcaraveo.com/projects/
 
 #### Get PDFs files
 
-**Spanish version:** [¿Deberíamos contratar nuevo personal?]()
+**Spanish version:** [¿Deberíamos contratar nuevo personal?](https://drive.google.com/file/d/1ap1zmtc2Yt61EKIm7VwI90Qx-JZdssTI/view?usp=sharing)
 
-**English version:** [Should we hire new staff?]()
+**English version:** [Should we hire new staff?](https://drive.google.com/file/d/1oWYZ4fMW3SmqitGd6Gp8cBm0fFZXKoFU/view?usp=sharing)
