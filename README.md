@@ -63,3 +63,22 @@ Go into the post [Which client looks like which client?](https://www.jlcaraveo.c
 * **Spanish version:** [¿Qué cliente se parece a que cliente?](https://drive.google.com/file/d/1NvzJ9EvtobgNqvHSPBLZPcN52jALN60T/view?usp=sharing)
 
 * **English version:** [Which client looks like which client?](https://drive.google.com/file/d/1i5lr27Sf5YO3Yw9gyL0-qGkweMouMa86/view?usp=sharing)
+
+
+### Sales
+
+**Predict the amount of sales, a competitive advantage.**
+
+**Date:** March 19, 2022
+
+**Author:** José Higuera
+
+The Machine Learning has given a great advantage at those companies that apply it, some decisions could make if their predict the amount to sales in order to be prepare.
+
+Go into the post [Predict the amount of sales, a competitive advantage.](https://www.jlcaraveo.com/projects/predict-the-amount-of-sales-a-competitive-advantage/).
+
+**Get PDFs files**
+
+* **Spanish version:** [Predecir la cantidad de ventas, una ventaja competitiva.](https://drive.google.com/file/d/1jOHTqY6qw34yQqrZaGG271jnaTbiprHA/view?usp=sharing)
+
+* **English version:** [Predict the amount of sales, a competitive advantage.](https://drive.google.com/file/d/1-1daLSj2-Jaf0FH9Mgoh_wyDztZSdLLp/view?usp=sharing)
