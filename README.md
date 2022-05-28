@@ -82,3 +82,23 @@ Go into the post [Predict the amount of sales, a competitive advantage.](https:/
 * **Spanish version:** [Predecir la cantidad de ventas, una ventaja competitiva.](https://drive.google.com/file/d/1jOHTqY6qw34yQqrZaGG271jnaTbiprHA/view?usp=sharing)
 
 * **English version:** [Predict the amount of sales, a competitive advantage.](https://drive.google.com/file/d/1-1daLSj2-Jaf0FH9Mgoh_wyDztZSdLLp/view?usp=sharing)
+
+### Healthcare AI
+
+**Innovating the diagnosis of possible brain cancer.**
+
+**Date:** May 28, 2022
+
+**Author:** José Higuera
+
+The early diagnosis of some diseases can translate into better treatments and therefore better results, helping to save human lives. Thanks to Deep Leaning we can achieve it.
+
+> **Note:** The data for this case of study is available on https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+
+Go into the post [Innovating the diagnosis of possible brain cancer.](https://www.jlcaraveo.com/projects/innovating-the-diagnosis-of-possible-brain-cancer/).
+
+**Get PDFs files**
+
+* **Spanish version:** [Innovando el diagnóstico de posible cáncer cerebral.](https://drive.google.com/file/d/12fonKQutvJYEx4hTSEFv0WQg-JBqTs7Q/view?usp=sharing)
+
+* **English version:** [Innovating the diagnosis of possible brain cancer.](https://drive.google.com/file/d/1wpp-7BMHabn4JExnhsntmVO8F5pUL3Id/view?usp=sharing)
